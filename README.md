@@ -6,7 +6,7 @@ This project demonstrates how to connect a **Dialogflow CX** agent with a **Pyth
 
 - Multi-step bot using Dialogflow CX Pages
 - Parameter capturing: name, age, email
-- Age validation (must be 18 or older)
+- Age validation (must be 21 or older)
 - Webhook built in Python with Flask
 - Data storage in `datos.csv`
 - Exposed publicly using [Ngrok](https://ngrok.com)
