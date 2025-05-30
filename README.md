@@ -72,7 +72,7 @@ ngrok http 5000
   - Name (`@sys.any`)
   - Age (`@sys.number`)
   - Email (`@sys.email`)
-- Use **conditions** to reject users under 18
+- Use **conditions** to reject users under 21
 - In the final page (e.g., `ResumenPage`), call the webhook via **Entry Fulfillment**
 
 ---
