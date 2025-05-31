@@ -26,7 +26,7 @@ This project demonstrates how to connect a **Dialogflow CX** agent with a **Pyth
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dialogflow-cx-webhook.git
+git clone https://github.com/villaltauve/dialogflow-cx-webhook.git
 cd dialogflow-cx-webhook
 ```
 
